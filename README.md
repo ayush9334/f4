@@ -4,3 +4,6 @@ why
 bye
 sorry
 welcome
+no
+shy
+
